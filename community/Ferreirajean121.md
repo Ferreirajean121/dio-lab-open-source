@@ -19,4 +19,4 @@
 
 ➕ Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ferreirajean121&repo=a00jean&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Ferreirajean121/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ferreirajean121&repo=Ferreirajean121&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Ferreirajean121/dio-lab-open-source/blob/feat/community/Ferreirajean121/community/Ferreirajean121.md)
